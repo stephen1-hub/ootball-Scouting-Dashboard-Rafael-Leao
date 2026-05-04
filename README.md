@@ -59,7 +59,7 @@ Football-Scouting-Dashboard-Rafael-Leao/
 └── .streamlit/config.toml
 # Live Demo
 
-[[👉 (Add your Streamlit link here)](https://ootball-scouting-dashboard-rafael-leao-ekuceusmp72qbn2ksegp6b.streamlit.app/)](https://ootball-scouting-dashboard-rafael-leao-ekuceusmp72qbn2ksegp6b.streamlit.app/)
+(https://ootball-scouting-dashboard-rafael-leao-ekuceusmp72qbn2ksegp6b.streamlit.app/)](https://ootball-scouting-dashboard-rafael-leao-ekuceusmp72qbn2ksegp6b.streamlit.app/)
 
 # Dashboard Preview
 
