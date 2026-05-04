@@ -71,6 +71,8 @@ https://your-streamlit-app-url.streamlit.app/
 🦶 Shot type contribution analysis
 🧠 Role-based output comparison (Starter vs Sub)
 🔥 Dynamic scouting insight generation
+<img width="1597" height="769" alt="image" src="https://github.com/user-attachments/assets/fab316ea-f3b1-4ddd-8818-c08e793b6b95" />
+
 
 # Author
 
